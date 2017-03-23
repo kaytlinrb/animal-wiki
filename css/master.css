@@ -1,0 +1,7 @@
+.dragon, .unicorn, .centaur, .nothing{
+  display: none;
+}
+
+img {
+  width: 50%;
+}
